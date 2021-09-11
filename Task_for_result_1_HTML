@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="Сайт(На заголовки, жирность, курсив)">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>На заголовки, жирность, курсив</title>
+</head>
+<body>
+    <p><strong>Это заголовок</strong></p>
+
+    <h1><strong>Это заголовок</strong></h1>
+
+    <h2><strong>Это заголовок</strong></h2>
+
+    <h3><strong>Это заголовок</strong></h3>
+
+    <p>Это<strong>абзац.</strong></p>
+
+    <p>Это еще абзац.</p>
+</body>
+</html>

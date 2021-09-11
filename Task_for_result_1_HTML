@@ -8,15 +8,10 @@
 </head>
 <body>
     <p><strong>Это заголовок</strong></p>
-
     <h1><strong>Это заголовок</strong></h1>
-
     <h2><strong>Это заголовок</strong></h2>
-
     <h3><strong>Это заголовок</strong></h3>
-
     <p>Это<strong>абзац.</strong></p>
-
     <p>Это еще абзац.</p>
 </body>
 </html>
